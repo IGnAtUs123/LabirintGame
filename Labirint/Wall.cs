@@ -1,6 +1,6 @@
 namespace MyApp
 {
-    public abstract class Wall: GameObject
+    public class Wall: GameObject
     {
     }
 }
